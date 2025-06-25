@@ -1,4 +1,4 @@
-# 👋 Welcome to MatrixMagician's GitHub
+# 👋 Welcome to Oliver's GitHub
 
 ## About Me
 
