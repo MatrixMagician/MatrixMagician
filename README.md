@@ -15,6 +15,9 @@ As a dedicated **homelabber**, I continuously explore and implement cutting-edge
 - **CyberSecurity Best Practices**
 - **DevOps & Automation**
 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/6bd8c579-9fea-4642-929d-8bd7bdbd774e/thumbnail" >
+</p>
 ---
 
 ## 🚀 Featured Project
