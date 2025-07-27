@@ -1,4 +1,4 @@
-# 👋 Welcome to Oliver's GitHub
+# 👋 Welcome to my GitHub
 
 ## About Me
 
